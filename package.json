@@ -1,6 +1,6 @@
 {
   "name": "camelcase-keys",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "Convert object keys to camelCase",
   "license": "MIT",
   "repository": "sindresorhus/camelcase-keys",
@@ -51,7 +51,7 @@
     "quick-lru": "^1.0.0"
   },
   "devDependencies": {
-    "ava": "*",
+    "ava": "^0.23.0",
     "matcha": "^0.7.0",
     "xo": "*"
   },
